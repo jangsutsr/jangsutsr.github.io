@@ -5,10 +5,6 @@ excerpt: "Just about everything you'll need to style in the theme: headings, par
 modified: 2013-05-31
 categories: articles
 tags: [sample-post]
-image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 ---
@@ -84,7 +80,7 @@ Syntax highlighting via Pygments and Rouge
 {% endhighlight %}
 
 Non Pygments/Rouge code example
-
+    
     <div id="awesome">
         <p>This is great isn't it?</p>
     </div>
