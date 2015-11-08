@@ -7,18 +7,11 @@ image:
   feature: bio-background.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Hello. I am Aaron Tan and I am currently a graduate student of [Columbia University](http://www.columbia.edu) at department of [Electrical Engineering](http://www.ee.columbia.edu). 
 
-## So Simple Theme is all about:
+Inspired by my undergraduate research in [biomedical signal processing](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7022704&queryText=A+Novel+Time-Frequency+Analysis+Approach+for+Nonstaionary+Time+Series+Using+Multi-resolution+Wavelet&matchBoolean=true&newsearch=true&searchField=Search_All), I am now a fan of data science. Driven by the excitement of digging hidden truth out of the flood of data, I am now learning every aspect of data sciense. I use [github](https://github.com/jangsutsr) as well as [this website](http://jangsutsr.github.io) to keep track of my progress and share ideas and experience with anyone interested. 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+I love sports at leisure times. I played basketball and I am now especially interested in tennis. Btw, I am the only guy among all my friends who can do handstand push-ups ;)
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+If you are interested, feel free to [e-mail](jangsutsr@gmail.com) me or choose any contact approaches below. Hope to hear from you!
 
-[^1]: Example: *domain.com/category-name/post-title*
