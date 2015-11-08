@@ -13,5 +13,5 @@ Inspired by my undergraduate research in [biomedical signal processing](http://i
 
 I love sports at leisure times. I played basketball and am now especially interested in tennis. Btw, I am the only guy among all my friends who can do [handstand push-ups](https://en.wikipedia.org/wiki/Handstand_push-up) ;)
 
-If you are interested, feel free to [e-mail](mailto:jangsutsr@gmail.com) me or choose any contact approaches below. Hope to hear from you!
+If you are interested, feel free to [e-mail](mailto:st2957@columbia.edu) me or choose any contact approaches below. Hope to hear from you!
 
