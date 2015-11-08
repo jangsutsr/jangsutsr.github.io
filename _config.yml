@@ -6,6 +6,7 @@ description: Technical articles and personal blogs
 logo: site-logo.png
 search: true
 url: http://jangsutsr.github.io 
+#url: http://localhost:4000
 
 # Jekyll configuration
 
